@@ -87,14 +87,14 @@ remote machine:**
 
 **Once login is successful, following editor screen is presented:** ▶️
 
-* **Upload – used to upload a file. One should have selected file in the Browse button beside the label Upload File
-* Compile-Perl – used to compile Perl program
-* Compile-PHP –used to compile PHP program
-* View – to view the output of XHTML/Perl/PHP/XML in browser
-* List – to display list of files belonging to the user
-* Checkwellformedness – to check whether XML file is well-formed
-* Validate – to check whether XML confirms to specific DTD
-* LineNumbers – to display line numbers in the editor textarea**
+* **Upload – used to upload a file. One should have selected file in the Browse button beside the label Upload File**
+* **Compile-Perl – used to compile Perl program**
+* **Compile-PHP –used to compile PHP program**
+* **View – to view the output of XHTML/Perl/PHP/XML in browser**
+* **List – to display list of files belonging to the user**
+* **Checkwellformedness – to check whether XML file is well-formed**
+* **Validate – to check whether XML confirms to specific DTD**
+* **LineNumbers – to display line numbers in the editor textarea**
 
 
 
