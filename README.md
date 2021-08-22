@@ -78,7 +78,7 @@ Preparing Back End(Database):
 Creating table in phpmyadmin:
 Database:**
 
-# ABOUT XAMP 🔨
+# ABOUT XAMPP 🔨
 **XAMPP (/ˈzæmp/ or /ˈɛks.æmp/[2]) is a free and open source cross-platform web server solution stack package developed by Apache Friends,[2] consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.[3][4] XAMPP stands for Cross-Platform (X), Apache (A), MariaDB (M), PHP (P) and Perl (P). It is a simple, lightweight Apache distribution that makes it extremely easy for developers to create a local web server for testing and deployment purposes. Everything needed to set up a web server – server application (Apache), database (MariaDB), and scripting language (PHP) – is included in an extractable file. XAMPP is also cross-platform, which means it works equally well on Linux, Mac and Windows. Since most actual web server deployments use the same components as XAMPP, it makes transitioning from a local test server to a live server extremely easy as well.**
 
 # LAB WORKING ENVIRONMENT: 🛠️
@@ -96,6 +96,7 @@ remote machine:**
 * **Validate – to check whether XML confirms to specific DTD**
 * **LineNumbers – to display line numbers in the editor textarea**
 
+# END 🔚
 
 
 
